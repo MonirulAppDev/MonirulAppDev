@@ -1,27 +1,99 @@
-# 💫 About Me:
-Hi there, I'm Monirul Islam 👋<br><br>I am a passionate Software Engineer with over 3 years of experience specializing in building robust, high-performance mobile applications. My core expertise lies in crafting cross-platform solutions, alongside a strong foundation in native development and backend architecture. <br><br>💻 Tech Stack & Expertise:<br>Mobile Development: Flutter, Dart | Kotlin, Jetpack Compose<br>Backend Development: Spring, Spring Boot<br>Architecture & Practices: Clean Architecture, RESTful API Integration<br><br>🌱 What I'm Up To:<br>Building scalable mobile architectures and focusing on clean, maintainable code.<br>Expanding my problem-solving skills through regular LeetCode practice.<br>Exploring backend ecosystems, including Golang, to build efficient server-side applications.<br><br>📫 Let's Connect:<br>Email: monirulappdev@gmail.com<br>LinkedIn: https://www.linkedin.com/in/monirul-islam-mony/
+<h1 align="center">Hi there, I'm Monirul Islam 👋</h1>
+<h3 align="center">Software Engineer | Flutter Specialist | Cross-Platform Mobile App Developer</h3>
 
+<p align="center">
+  <a href="https://monirul-islam-app-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/monirul-islam-mony/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:monirulappdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KtppfefZ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/monirulappdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monirulappdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monirul-islam-mony) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@monirulappdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@monirulappdev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MonirulAppDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monirulappdev@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MonirulAppDev&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MonirulAppDev&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MonirulAppDev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MonirulAppDev&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MonirulAppDev&limit=5&theme=default&combine_all_yearly_contributions=true)
+<p align="center">
+  I am a passionate <b>Software Engineer</b> with over 3 years of experience building scalable, high-performance, and feature-rich cross-platform mobile applications using <b>Flutter</b> and <b>Dart</b>. I specialize in Clean Architecture, advanced State Management, and building seamless UI/UX experiences.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MonirulAppDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working as a **Software Engineer at Prime Tech Solutions Ltd**, building robust iOS and Android apps.
+- 🌱 I’m currently exploring and integrating **AI/ML (LLM Coding, Google ML Kit)** and expanding my backend knowledge with **Spring Boot & FastAPI**.
+- 🏗️ Deeply experienced in **Clean Architecture**, **SOLID principles**, and **Modularization**.
+- ⚡ **Fun fact:** I optimized app animations and state management to cut crash rates by 20% in my recent enterprise projects!
+- 📫 How to reach me: **[monirulappdev@gmail.com](mailto:monirulappdev@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square&logo=abstract&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Bloc-8A2BE2?style=flat-square&logo=dart&logoColor=white" alt="Bloc" />
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Provider-42A5F5?style=flat-square&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+**Key Capabilities:**
+* **State Management:** Provider, Bloc, Riverpod
+* **Networking & APIs:** HTTP, Dio, Retrofit, Custom Interceptors, Websockets
+* **Local Storage:** Hive, SQFLite, SharedPreferences, GetStorage, Isar
+* **Payment Integrations:** SSL COMMERZ, bKash, Khalti, ConnectIPS, Brac Bank
+
+---
+
+### 💼 Professional Experience
+
+| Role | Company | Duration | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Software Engineer** | Prime Tech Solutions Ltd. | Feb 2024 - Present | Developed production-level apps, reduced crash rates by 20%, integrated complex APIs, and managed end-to-end deployments to App Store & Play Store. |
+| **Flutter Developer** | INVASIS | May 2025 - Jan 2026 | Built **QADR**, a massive Islamic app serving thousands of users. Integrated SSLCommerz, real-time WebSockets chat, and sensor-based Qibla compass. |
+| **Jr. Software Engineer** | Clipping World Ltd. | May 2023 - Dec 2023 | Developed document management and scanning apps focusing on clean architecture and Firebase integration. |
+| **Flutter Dev Intern** | Code Studio | Feb 2023 - May 2023 | Built foundational cross-platform apps, integrated cloud storage, and adhered to SOLID principles in an Agile environment. |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🕌 Qadr - Islamic Learning & Shopping App
+A comprehensive feature-rich app featuring an Audio Quran player, an E-commerce store, a Donation gateway via SSL Commerce, and a real-time admin chat system using WebSockets. 
+* **Tech:** Flutter, Provider, Retrofit, Firebase, Hive, WebSocket.
+
+#### 🚌 Paribahan - Online Bus Ticketing App
+A seamless UI/UX experience for booking bus tickets online, featuring complex API integrations and secure payment gateway processing.
+* **Tech:** Flutter, Dart, Bloc, REST APIs, JSON Serializable.
+
+#### ✈️ Cosmos Holiday & Tripper - Airplane Ticket Booking
+B2B/B2C/Subagent flight booking platforms with integrated payment APIs and flight search functionalities.
+* **Tech:** Flutter, Dart, Provider, Firebase.
+
+#### 📄 Document Scanner & PDF Generator
+An intelligent utility app that uses the device camera alongside Google ML Kit to extract text (OCR) and generate formatted PDFs.
+* **Tech:** Flutter, Firebase, Google ML Kit.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonirulAppDev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonirulAppDev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+<p align="center">
+  <i>"Writing clean, maintainable code to solve complex problems and deliver seamless user experiences."</i>
+</p>
