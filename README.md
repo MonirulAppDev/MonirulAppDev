@@ -52,7 +52,6 @@ I specialize in building premium digital products that blend technical robustnes
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonirulAppDev&theme=tokyonight&hide_border=true&stroke=FDC435&ring=FDC435&currStreakNum=FDC435" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MonirulAppDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=FDC435&icon_color=FDC435&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
 </div>
 
 ---
