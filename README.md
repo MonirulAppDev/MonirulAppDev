@@ -621,7 +621,7 @@ Professional document scanning and digitization tool using Google ML Kit Vision 
 <a href="mailto:monirul.se.cseuu@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://wa.me/+8801828318941">
+<a href="https://wa.me/8801828318941?text=Hello%20Monirul!%20I%20would%20like%20to%20connect%20with%20you." target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="tel:+8801828318941">
